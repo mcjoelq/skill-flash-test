@@ -1,4 +1,4 @@
-{
+[{
 	"$schema": "http://json-schema.org/draft-04/schema#",
 	"id": "https://github.com/mcjoelq/skill-flash-test/blob/master/lambda/custom/falsh-test.json",
 	"title": "Flash Briefing Skill API Feed",
@@ -65,4 +65,4 @@
 			"format": "uri"
 		}
 	}
-}
+}]
