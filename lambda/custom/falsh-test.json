@@ -3,6 +3,8 @@
 		"uid": "fc6b5310-4d38-4f34-a4ca-f2682040c748ColoradoOutsideUpdate9-21-18",
 		"updateDate": "2018-09-21T20:06:46.0Z",
 		"titleText": "Colorado Outside Update 9-21-18",
-		"mainText": "Colorado Outside Update 9-21-18"
+		"mainText": "Colorado Outside Update 9-21-18",
+		"streamUrl": "https://s3.amazonaws.com/gearmunk-alexa/news/gearmunknews11-21-17.m4a",
+		"redirectionUrl": "https://www.gearmunk.com"
 	}
 ]
